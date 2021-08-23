@@ -1,0 +1,9 @@
+{
+	"mode": "library",
+	"excludePrivate": true,
+	"excludeProtected": true,
+	"excludeExternals": false,
+	"excludeNotExported": true,
+	"target": "ES6",
+	"listInvalidSymbolLinks": true
+}
